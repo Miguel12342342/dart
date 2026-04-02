@@ -16,6 +16,7 @@ uma funcao como argumento.
 
 */
 
+import 'package:dart/funcoes/funcao_privada.dart';
 import 'package:dart/funcoes/funcoes_part2.dart';
 
 void main(){
@@ -27,7 +28,11 @@ void main(){
   final funcaoAnonima = (){
     print("Função anônima");
   };
+
   funcaoAnonima();
+
+  funcaoPublica();
+
 }
 
 void funcaoGlobal(){
