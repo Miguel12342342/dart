@@ -43,3 +43,10 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Generated platform folders (not relevant for Dart studies)
+android/
+ios/
+web/
+.metadata
+lib/main.dart
