@@ -42,11 +42,12 @@ Repositório de estudos pessoais da linguagem Dart, cobrindo os fundamentos da l
 | `maps.dart` | Map | Chave/valor, `containsKey()`, `containsValue()`, `remove()` |
 | `sets.dart` | Set | Sem duplicatas, `add()`, `remove()`, `contains()`, conversão `toSet().toList()` |
 
-### Laços de repetição (`lib/lacoes_repeticoes/`)
+### Laços de repetição (`lib/lacos_repeticoes/`)
 
 | Arquivo | Tópico | O que foi praticado |
 |---|---|---|
-| `for.dart` | for | — |
+| `for.dart` | for | `for` clássico, `for in`, `forEach()`, `map()` |
+| `while.dart` | while / do while | `while`, `do while`, diferença entre os dois |
 
 ## Como rodar um arquivo
 
