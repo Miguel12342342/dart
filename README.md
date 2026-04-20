@@ -70,6 +70,16 @@ lib/
 
 ---
 
+## Próximos tópicos
+
+- [ ] Classes e orientação a objetos
+- [ ] Construtores e herança
+- [ ] Interfaces e mixins
+- [ ] Tratamento de erros (`try/catch`)
+- [ ] Programação assíncrona (`async/await`, `Future`)
+
+---
+
 ## Como rodar
 
 ```bash
